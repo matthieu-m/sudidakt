@@ -1,0 +1,15 @@
+[package]
+name = "sudidakt"
+version = "0.0.1"
+authors = ["Matthieu M. <matthieum.147192@gmail.com>"]
+edition = "2021"
+description = "A didactic sudoku solver assistant"
+repository = "https://github.com/matthieu-m/sudidakt"
+license = "MIT OR Apache-2.0"
+keywords = ["sudoku"]
+categories = []
+
+[[bin]]
+name = "sudidakt"
+test = false
+bench = false
